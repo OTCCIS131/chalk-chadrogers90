@@ -1,0 +1,22 @@
+{
+  "name": "chalk-chadrogers90",
+  "version": "1.0.0",
+  "description": "chalk-chadrogers90",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OTCCIS131/chalk-chadrogers90.git"
+  },
+  "author": "Chad Rogers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OTCCIS131/chalk-chadrogers90/issues"
+  },
+  "homepage": "https://github.com/OTCCIS131/chalk-chadrogers90#readme",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
